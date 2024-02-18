@@ -1,5 +1,4 @@
-Customer Segmentation Project
-Overview
+Customer Segmentation Project Overview
 This project focuses on customer segmentation using unsupervised learning techniques to group customers based on common characteristics and behaviors.
 
 Goals
